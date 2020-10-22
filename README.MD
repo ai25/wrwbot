@@ -31,9 +31,9 @@
 
 ### ENV VARIABLES
 
-`TOKENBOT` - Discord Bot TOKEN
-`POSTCHANNEL` - Channel ID. Bot will send all posts to your Guild's Channel with this ID
-`BOTOWNERS` - Your bot admins/sysops, who can run admin commands
-`BOTPREFIX` - (optional variable) Prefix for all commands. Example: `!ping`, where `!` is command prefix.
-`POLLING_AUTOSTART` - (optional variable) If `true` then bot will fetch posts automatically after start.
-`POLLING_INTERVAL` - (optional variable) Interval in milliseconds. How often bot will check for new posts and re-send them to channel. (Minimal is 1000 == 1 sec)
+`TOKENBOT` - Discord Bot TOKEN. <br>
+`POSTCHANNEL` - Channel ID. Bot will send all posts to your Guild's Channel with this ID. <br>
+`BOTOWNERS` - Your bot admins/sysops, who can run admin commands. <br>
+`BOTPREFIX` - (optional variable) Prefix for all commands. Example: `!ping`, where `!` is command prefix. <br>
+`POLLING_AUTOSTART` - (optional variable) If `true` then bot will fetch posts automatically after start. <br>
+`POLLING_INTERVAL` - (optional variable) Interval in milliseconds. How often bot will check for new posts and re-send them to channel. (Minimal is 1000 == 1 sec) <br>
