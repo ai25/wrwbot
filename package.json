@@ -1,6 +1,6 @@
 {
   "name": "rwrbot",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "main": "index.js",
   "license": "GNU General Public License v3.0",
   "scripts": {
