@@ -6,7 +6,7 @@
 2. Run in terminal `git clone https://github.com/ai25/rwrbot && cd rwrbot`
 3. Run in terminal `npm install` or `yarn install`
 4. Copy `.env.example` to `.env`
-5. Set `TOKENBOT`, `POSTCHANNEL` and `BOTOWNERS` in your `.env` file (see [How to .env](#How-to-bake-.env))
+5. Set `TOKENBOT`, `POSTCHANNEL` and `BOTOWNERS` in your `.env` file (see [How to .env](#how-to-bake-env))
 6. To start bot, run in terminal `npm run start` or `yarn start`
 
 ## How to bake .env
