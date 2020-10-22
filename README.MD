@@ -3,7 +3,7 @@
 ## Installing
 
 1. Install [Node.js v14.11.0](https://nodejs.org) **or above** on your host server
-2. Run in terminal `git clone https://github.com/ai25/wrwbot && cd rwrbot`
+2. Run in terminal `git clone https://github.com/ai25/wrwbot && cd wrwbot`
 3. Run in terminal `npm install` or `yarn install`
 4. Copy `.env.example` to `.env`
 5. Set `TOKENBOT`, `POSTCHANNEL` and `BOTOWNERS` in your `.env` file (see [How to .env](#how-to-bake-env))
